@@ -41,3 +41,5 @@ The project explores both traditional machine learning models and deep learning 
 - Among the machine learning models, the Random Forest classifier demonstrated the best performance based on evaluation metrics.
 - Within the deep learning models, the Convolutional Neural Network (CNN) showed promising results for fraud detection.
 - Detailed analysis and interpretation of model performance, including confusion matrices and ROC curves.
+
+## Financial Fraud Detection Deployment - https://github.com/AyushKatkar30/FinancialFraudDetector-Deployment
